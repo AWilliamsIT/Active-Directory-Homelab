@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 Using the links below and the other files in this repository you can recreate this lab.
 
-https://www.virtualbox.org/ -hypervisor for the virtual machines you will set up but you are free to use your preferred virtualization software
+https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html -hypervisor for the virtual machines you will set up but you are free to use your preferred virtualization software
 
 https://www.microsoft.com/en-ca/software-download/windows10 - Windows 10 download
 
